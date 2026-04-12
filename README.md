@@ -1,6 +1,6 @@
 <div align="center">
 
-# 이은지 (Lee Eunji) · TrillionScale
+#  TrillionScale
 
 **Web5 Internet Protocol (Web5 인터넷 프로토콜) · Fast AI Security API (빠른 AI 보안 API) Builder**
 
