@@ -63,7 +63,7 @@
 
 | Platform | Link |
 |----------|------|
-| 🌐 Official Site (공식 사이트) | [trillionscale-pitch.vercel.app](https://trillionscale.org) |
+| 🌐 Official Site (공식 사이트) | [trillionscale.org](https://trillionscale.org) |
 | 📱 Telegram Official (텔레그램 공식) | [t.me/TrillionScale](https://t.me/+ywvmR5X2MEZlZTNl) |
 | 📊 Telegram Channel (텔레그램 채널) | [t.me/FreshCryptoDB](https://t.me/FreshCryptoDB) |
 | ✉️ Email (이메일) | karin.blockdev@gmail.com |
