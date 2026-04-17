@@ -41,7 +41,7 @@
 - Real-time URL · Document · Image Analysis (실시간 URL·문서·이미지 분석)
 - Free Tier Available (무료 티어 제공)
 
-### ⬡ Web5Job
+### ⬡ Web5Jobs
 > Agent-based blockchain job network (에이전트 기반 블록체인 잡 네트워크)
 
 ### 💳 StickerPay
